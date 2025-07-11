@@ -2,3 +2,6 @@ bin
 etc
 lib
 .vscode
+.DS_Store
+share
+pyvenv.cfg
